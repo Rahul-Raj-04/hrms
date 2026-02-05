@@ -1,0 +1,6 @@
+name,email,phone,roleApplied,skills,experience,noticePeriod,resumeUrl
+John Doe,john.doe@example.com,9876543210,Software Engineer,"JavaScript,Node.js,React",3,2 months,https://example.com/resumes/john_doe.pdf
+Jane Smith,jane.smith@example.com,9123456780,Frontend Developer,"HTML,CSS,React",2,1 month,https://example.com/resumes/jane_smith.pdf
+Alex Johnson,alex.johnson@example.com,9988776655,Backend Developer,"Node.js,Express,MongoDB",5,3 months,https://example.com/resumes/alex_johnson.pdf
+Maria Garcia,maria.garcia@example.com,9112233445,Full Stack Developer,"JavaScript,Node.js,React,Angular",4,2 months,https://example.com/resumes/maria_garcia.pdf
+David Lee,david.lee@example.com,9001122334,QA Engineer,"Selenium,Postman,Java",2,1 month,https://example.com/resumes/david_lee.pdf

@@ -1,0 +1,38 @@
+staff_name,staff_id,personalemail,phone,joining_date,gender,department,designation,employment_type,login_email,username,password,access_level,basic_salary,dob
+Uttam Tyagi,WGTS-9022,uttamtyagi.111@gmail.com,9810815502,2024-07-30,Male,Developer-L4,Python Developer,Full-time,uttam@wishgeekstechserve.com,uttamtyagi,Geeks@1302,Staff,0,2001-11-03
+Rohit Lohani,WGTS-9073,r.lohani22@gmail.com,8650025836,2025-09-29,Male,Developer-L4,Unity Game Developer,Full-time,rohit.lohani@wishgeekstechserve.com,rohitLohani,Lohani@2024,Staff,0,1999-03-22
+Lakshay Babbar,WGTS-9049,lakshaybabbar0118@gmail.com,9953712825,2025-06-16,Male,Developer-L4,Full-Stack Developer,Full-time,lakshay@wishgeekstechserve.com,lakshaybabbar,L@k$hay.wgt,Staff,0,2005-01-18
+Sahiba Bano,WGTS-9007,sahiba.krp2000@gmail.com,8595046293,2024-04-15,Female,Developer-L4,Web Developer,Full-time,sahiba@wishgeekstechserve.com,sahibabano,Sahiba@8595,Staff,0,2000-10-08
+Ritik Kumar,WGTS-9081,ritikkumar764585@gmail.com,7645854345,2025-11-17,Male,Developer-L4,Full Stack Developer,Full-time,ritik@wishgeekstechserve.com,ritikkumar,Ritik@123,Staff,0,2002-05-10
+Sweety Kumari,WGTS-9050,sweetysinha746@gmail.com,9958685093,2025-06-20,Female,Developer-L4,Sales Executive,Full-time,sweety@wishgeekstechserve.com,sweetykumari,n/a,Staff,0,1996-02-05
+Pramod Pandit,WGTS-9036,pramod52jpr@gmail.com,9991969489,2025-01-27,Male,Developer-L4,Flutter Developer,Full-time,pramod@wishgeekstechserve.com,pramodpandit,Geeks@1302,Staff,0,2001-07-24
+Rahul Kumar,WGTS-9063,rahulkumarofficial36@gmail.com,9820035336,2025-08-18,Male,Developer-L4,Full Stack Developer,Full-time,rahul.kumar@wishgeekstechserve.com,rahulkumar,123456,Staff,0,1996-10-09
+Aaditya Tyagi,WGTS-9064,tyagiadityagi@gmail.com,8433492208,2025-08-19,Male,Developer-L4,Full Stack Developer,Full-time,aditya.tyagi@wishgeekstechserve.com,aadityatyagi,admin@aadi,Staff,0,2006-03-23
+Himanshu Dewal,WGTS-9071,himanshudewal18@gmail.com,9871298077,2025-09-15,Male,Developer-L4,Motion Graphic Designer and Video Editor,Full-time,himanshu@wishgeekstechserve.com,himanshudewal,himanshu@#12345,Staff,0,2002-06-13
+Ankit Sharma,WGTS-9019,ank2715@gmail.com,8447018643,2024-07-17,Male,Developer-L4,Front-End Developer & Operations Supervisor,Full-time,ankit@wishgeekstechserve.com,ankitsharma,Ankit@1901,Staff,0,2001-01-19
+Somya Kamakhya,WGTS-9062,kamakhyasomya@gmail.com,7417214373,2025-08-18,Female,Marketing and Promotion,Social Media Executive,Full-time,somya.kamakhya@wishgeekstechserve.com,somyakamakhya,SOMYAWGTS21,Staff,0,2004-02-20
+Khushi Tyagi,WGTS-9059,kushit486@gmail.com,8595715974,2025-08-06,Female,Sales,Tele Caller,Full-time,khushi@wishgeekstechserve.com,khushityagi,khushi@9099,Staff,0,2003-03-11
+Priyanka Singh,WGTS-9054,priyanka.singh.2907.2k@gmail.com,6205956258,2025-07-14,Female,Developer-L4,PHP Laravel Developer,Full-time,priyanka@wishgeekstechserve.com,priyankasingh,Priyanka@WGTS_9054,Staff,0,2000-07-29
+Manish Bhojwani,WGTS-9070,advmanishbhojwani@gmail.com,9082798662,2025-01-01,Male,Operation Frontline,Head of Legal and Operations,Full-time,legal@wishgeekstechserve.com,manishbhojwani,Ash@2430,Manager,0,1987-06-05
+Arzoo,WGTS-9085,arzookumari286@gmail.com,7840858778,2025-12-12,Female,Accounts,Senior Accounts Executive,Full-time,arzoo@wishgeekstechserve.com,arzookumari,Arzoo@011,Staff,0,2003-07-04
+Mousham Tiwari,WGTS-9057,moushamtiwari1999@gmail.com,8287652219,2025-08-05,Female,Sales,Sales Executive,Full-time,mousham@wishgeekstechserve.com,moushamtiwari,Geeks@#9088,Manager,0,1998-04-24
+Munish Rai,WGTS-9065,munishrai.mr1998@gmail.com,8707012220,2025-08-01,Male,Developer-L4,Flutter Developer,Full-time,munish@wishgeekstechserve.com,munishrai,Munishrai@1998,Staff,0,1998-06-22
+Shruti Somya,WGTS-9053,shrutisomya2@gmail.com,8797040507,2025-07-14,Female,Human Resource,HR Executive,Full-time,shruti@wishgeekstechserve.com,shrutisomya,Shruti@0612,HR,0,2003-12-06
+Ayush Garg,WGTS-9086,ayushgarg222222@gmail.com,8587968190,2025-12-15,Male,Developer-L4,Flutter Developer,Full-time,ayush@wishgeekstechserve.com,ayushgarg,ayushgarg@#123,Staff,0,2004-09-01
+Amit Mandal,WGTS-9088,iamamit2016@gmail.com,8468869344,2025-12-29,Male,Developer-L4,Flutter Developer,Full-time,amit.mondal@wishgeekstechserve.com,amitmandal,Amit@88260,Staff,0,2002-10-05
+Shashank Shukla,WGTS-9078,shuklashashank2829@gmail.com,8604483788,2025-11-05,Male,Developer-L4,UIUX Designer,Full-time,shashank@wishgeekstechserve.com,shashankshukla,Wishgeeks@1,Staff,0,2005-09-30
+Sneha Khaleer,WGTS-9080,snehachaudhary2717@gmail.com,8800695957,2025-11-17,Female,Marketing and Promotion,Content Writer,Full-time,sneha@wishgeekstechserve.com,snehakhaleer,Wishgeeks@12,Staff,0,2005-08-17
+Chhavi Verma,WGTS-9090,chhaviverma653@gmail.com,9026953690,2025-12-22,Female,Marketing and Promotion,Social Media Executive,Full-time,chhavi@wishgeekstechserve.com,chhaviverma,Wishgeeks@2026,Staff,0,2001-07-31
+Abhishek Pandey,WGTS-9087,tulsidaspandey9650@gmail.com,9311523170,2025-12-22,Male,Marketing and Promotion,Marketing Manager,Full-time,abhishek.pandey@wishgeekstechserve.com,abhishekpandey,Abhishek@#2034,Manager,0,2003-08-02
+Varun Gupta,WGTS-9075,bindal.varun004@gmail.com,9650720044,2025-10-06,Male,Marketing and Promotion,Ads Manager,Full-time,varun@wishgeekstechserve.com,varungupta,Marketing@123,Staff,0,2000-08-20
+Devesh Khajuriya,WGTS-9066,deveshkhajuriya8@gmail.com,9696590266,2025-09-01,Male,Developer-L4,UI UX Designer,Full-time,devesh@wishgeekstechserve.com,deveshkhajuriya,Devesh@wishgeeks,Staff,0,1996-07-08
+Krishnam Bisht,WGTS-9009,bishtkrishnam400@gmail.com,9717427145,2024-05-20,Male,Developer-L4,Manager Projects,Full-time,krishnam@wishgeekstechserve.com,krishnambisht,9717427145Kb@,Manager,0,2002-03-03
+Shubham Bisht,WGTS-9001,sunny140296@gmail.com,8076589870,2024-06-12,Male,Operation Frontline,Operations Head,Full-time,shubham@wishgeekstechserve.com,shubhambisht,Swift@1989,HR,0,1996-02-14
+Pooja Sharma,WGTS-9092,poojash3878@gmail.com,7838431550,2026-01-05,Female,Marketing and Promotion,Graphic Designer,Full-time,pooja@wishgeekstechserve.com,poojasharma,sharma@#1390,Staff,0,2003-01-01
+Ankit Kumar,WGTS-9095,theankitempire@gmail.com,8630851998,2026-01-27,Male,Marketing and Promotion,Video Editor,Full-time,ankit.kumar@wishgeekstechserve.com,ankitkumar,Kumar@#2026,Staff,0,2005-07-05
+Yashi Saxena,WGTS-9093,saxenayashi769@gmail.com,8743824672,2026-01-12,Female,Human Resource,HR Executive,Full-time,yashi@wishgeekstechserve.com,yashisaxena,Yashi123,HR,0,2004-05-21
+Preeti Dalal,WGTS-9052,preetidalal598@gmail.com,9654772424,2025-07-10,Female,Accounts,Accounts Manager,Full-time,preeti.dalal@wishgeekstechserve.com,preetidalal,Dreams@1234,Manager,0,1993-12-11
+Rishabh Pal,WGTS-9076,rishabhpal3127@gmail.com,8882779102,2025-10-08,Male,Marketing and Promotion,Junior Social Media Executive,Full-time,rishabh@wishgeekstechserve.com,rishabh,Rishabh@123,Staff,0,2003-02-04
+Imam Azam Khan,WGTS-9089,iak.ald70@gmail.com,8601163573,2025-12-29,Male,SEO,SEO Executive,Full-time,imam@wishgeekstechserve.com,imamazam,Azam123@,Staff,0,1995-04-01
+Pramod Kumar,WGTS-9082,pramod396588@gmail.com,9639743340,2003-11-17,Male,SEO,SEO Executive,Full-time,pramod.kumar@wishgeekstechserve.com,pramodkumar,Pramod@#135,Staff,0,2003-12-01
+Faizan Azeem,WGTS-9068,faizanazeem085@gmail.com,9696931953,2025-09-01,Male,SEO,SEO Executive,Full-time,faizan@wishgeekstechserve.com,faizanazeem,@Fa9696931953,Staff,0,2001-01-05
